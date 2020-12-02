@@ -25,4 +25,6 @@ git push
 # Open project with text editor 
 # (Choose any of your choice for example vscode)
 code .
+
+# My Favourite 😉
 #nvim
