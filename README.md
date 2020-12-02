@@ -48,6 +48,18 @@ chmod +x start-project.sh
 5. Create a local repository with 'Project name': enter N,
 6. Why ?because we will be cloning the repo from github, so we don't have to set the remote origin and the set upstream branch as well.
 
+- You can also create alias for running this script from anywhere.(Linux & MacOS)
+
+  1. First copy this script to your root folder
+  2. The add this line to your zshrc:
+
+  ```
+  alias ghstart="~/start-project.sh"
+
+  ```
+
+  3. Now you can run this script from anywhere.
+
 ## OS tested:
 
 1. Currently tested in linux
